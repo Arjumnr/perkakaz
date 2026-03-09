@@ -6,12 +6,12 @@
 
 ---
 
-## 🛠 Apa isi di dalamnya?
+## Apa isi di dalamnya?
 * **Utility & Tools**: Skrip untuk mempercepat otomasi tugas rutin.
 * **Best Practices**: Standar struktur kode yang konsisten.
 * **Efficiency**: Mengurangi redundansi dalam *workflow*.
 
-## 🚀 Cara Memulai
+## Cara Memulai
 (Masukkan langkah instalasi atau cara pakai singkat di sini)
 
 ```bash
